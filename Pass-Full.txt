@@ -1,0 +1,9 @@
+ubnt|ubnt
+user|user
+admin|admin
+oper|oper
+guest|guest
+admin|default
+admin|1234
+root|root
+PlcmSpIp|PlcmSpIp
